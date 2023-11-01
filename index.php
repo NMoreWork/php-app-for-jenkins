@@ -23,9 +23,8 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>Ебал твою мать пес ты ебучий</h1>
-        <p>Your AWS Elastic Beanstalk шмара ебучая <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
-        <p>You are running PHP version уебан? <?= phpversion() ?></p>
+        <h1>DevOps BOS is HERE</h1>
+        <h1 style="color: gold;">Все ОК, зашибись пропушил, КРАСАВА БРОУ</h1>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
     </section>
 
