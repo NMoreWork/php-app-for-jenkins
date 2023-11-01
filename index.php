@@ -24,7 +24,7 @@ else
 <body>
     <section class="congratulations">
         <h1>DevOps BOS is HERE</h1>
-        <h1 style="color: gold;">Все ОК, зашибись пропушил, КРАСАВА БРОУ</h1>
+        <h1 style="color: gold;">Все ОКK, зашибись пропушил, КРАСАВА БРОУ</h1>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
     </section>
 
